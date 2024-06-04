@@ -14,7 +14,7 @@
 8. SVM
 9. Perceptron
 
-## For Sentimental Analysis using Deep Learning
+## For Sentimental Analysis using Deep Learning Sequential Models
 10. RNN
 11. GRU
 12. LSTM
